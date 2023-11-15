@@ -1,4 +1,4 @@
-# The_Fabulous_Kitchen_Timer
+# The Fabulous Kitchen Timer
 
 Android timer with two modes of operation and various settings. 
 
